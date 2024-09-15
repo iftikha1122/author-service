@@ -1,4 +1,4 @@
-package com.document.manager.authors;
+package com.document.manager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
