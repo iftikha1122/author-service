@@ -1,0 +1,63 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# IntelliJ IDEA Plugin specific
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# Ignore all the .iml files
+*.iml
+*.hprof
+
+# Gradle specific files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Gradle cache
+**/build/
+**/out/
+!gradle-wrapper.jar
+.gradle/
+
+# MacOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# macOS metadata files
+*.swp
+*.swo
+._*
+
+# Java specific files
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Log and temporary files
+logs/
+*.log
+*.tmp
+*.temp
+# Maven and other IDE-specific
+target/
+
